@@ -1,4 +1,4 @@
-# 🎬  Book Store App
+# Book Store App
 <!--Visit Website :- https://mern-movie-l1wzhhxno-hets-projects-b3501baf.vercel.app/ <br>-->
 Welcome to the **MERN Book App**! This application lets you explore movies and manage your own watchlist by adding or removing movies.
 
