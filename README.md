@@ -29,7 +29,7 @@
 - **Mongoose** - MongoDB ODM for schema modeling.
 
 ---
-
+<!--
 ## 🚀 Getting Started
 
 ### **1. Prerequisites**
@@ -44,5 +44,5 @@ Make sure you have the following installed:
 git clone https://github.com/KUNJ_CP23/MERN-Books-app
 cd bookify
 ```
-
+-->
 
